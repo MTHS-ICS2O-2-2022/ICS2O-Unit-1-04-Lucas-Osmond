@@ -2,18 +2,19 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
-body {
-background-color:cadetblue
+
+  body {
+background-color: cadetblue;
 }
 
 h1 {
-  background-color: rgb(69, 75, 27);
+  background-color: darkolivegreen;
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: rgb(50, 205, 50)
+  background-color: lightgreen;
 }
 
 img {
